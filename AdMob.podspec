@@ -1,7 +1,12 @@
 Pod::Spec.new do |spec|
   spec.name                  = 'AdMob'
   spec.version               = '6.9.2'
-  spec.license               = { :type => 'MIT' }
+  s.license = {
+    :type => 'Copyright',
+    :text => <<-LICENSE
+        Copyright 2009 - 2012 Google, Inc. All rights reserved.
+        LICENSE
+  }
   spec.homepage              = 'https://github.com/awojnowski/AdMob'
   spec.authors               = { 'Aaron Wojnowski' => 'aaronwojnowski@gmail.com' }
   spec.summary               = 'Google's AdMob SDK'
