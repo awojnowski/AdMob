@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
   }
   spec.homepage              = 'https://github.com/awojnowski/AdMob'
   spec.authors               = { 'Aaron Wojnowski' => 'aaronwojnowski@gmail.com' }
-  spec.summary               = 'Google's AdMob SDK'
+  spec.summary               = 'Google AdMob SDK'
   spec.source                = { :git => 'https://github.com/awojnowski/AdMob.git', :tag => '6.9.2'}
   spec.source_files          = 'src/*'
   spec.ios.deployment_target = '7.0'
