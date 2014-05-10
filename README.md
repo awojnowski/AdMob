@@ -1,4 +1,4 @@
 AdMob
 =====
 
-AdMob SDK for iOS
+Cocoapods complient AdMob SDK.
