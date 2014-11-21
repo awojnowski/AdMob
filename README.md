@@ -3,4 +3,4 @@ AdMob
 
 Cocoapods complient AdMob SDK.
 
-Current version: `6.12.0`
+Current version: `6.12.2`
