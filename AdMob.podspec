@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name                  = 'AdMob'
-  spec.version               = '6.12.1'
+  spec.version               = '6.12.2'
   spec.license = {
     :type => 'Copyright',
     :text => <<-LICENSE
@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
   spec.homepage              = 'https://github.com/awojnowski/AdMob'
   spec.authors               = { 'Aaron Wojnowski' => 'aaronwojnowski@gmail.com' }
   spec.summary               = 'Google AdMob SDK'
-  spec.source                = { :git => 'https://github.com/awojnowski/AdMob.git', :tag => '6.12.1'}
+  spec.source                = { :git => 'https://github.com/awojnowski/AdMob.git', :tag => '6.12.2'}
 
   spec.public_header_files   = 'src/*.h'
   spec.source_files          = 'src/*.h'
