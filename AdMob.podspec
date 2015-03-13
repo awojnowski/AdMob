@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.summary               = 'Google AdMob SDK'
   spec.source                = { :git => 'https://github.com/awojnowski/AdMob.git', :tag => '7.0.0'}
 
-  spec.vendored_frameworks   = 'framework/GoogleMobileAds.framework'
+  spec.ios.vendored_frameworks   = 'framework/GoogleMobileAds.framework'
 
   spec.ios.deployment_target = '7.0'
 
